@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <include name="_remotes.xml"/>
+    <remote name="personal_swi" fetch="https://github.com/deadpoolcode1/" />
 
     <!-- Yocto -->
     <include name="lxswi/tags/LXSWI3.1-3.0/systems/wp76xx/lxswi.xml"/>
